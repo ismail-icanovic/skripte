@@ -1,0 +1,10 @@
+- kako napraviti user service
+  - [LINK](https://computingforgeeks.com/how-to-run-systemd-service-without-root-sudo/)
+- moguci problem
+  - [LINK](https://unix.stackexchange.com/questions/415521/created-a-user-service-returns-error-failed-at-step-group-spawning-operation)
+- `systemctl --user status propass-dev2.service`
+- `journalctl -u codedeploy-agent.service | tail `
+- `journalctl -u codedeploy-agent.service`
+- `systemctl show my-service propass-dev.service | less`
+- `systemctl --user list-unit-files propass-dev2.service`
+- `systemctl --user daemon-reload`
