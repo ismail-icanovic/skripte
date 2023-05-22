@@ -1,0 +1,7 @@
+- Problem sa izmjenama na remote brancu, konflikt
+  - `git fetch`
+  - `git merge origin/main`
+  - `git add .`
+  - `git commit -m "rjesen konflikt"`
+  - `git merge origin/main`
+  - `git push`
