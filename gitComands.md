@@ -1,7 +1,8 @@
 - Problem sa izmjenama na remote brancu, konflikt
   - `git fetch`
-  - `git merge origin/main`
+  - `git merge origin/main`, ovdje se rjesi konflikt
   - `git add .`
   - `git commit -m "rjesen konflikt"`
-  - `git merge origin/main`
   - `git push`
+- Cake neke
+  - [LINK](https://www.youtube.com/watch?v=ecK3EnyGD8o&pp=ygUVZ2l0IGFkdmFuY2VkIGZpcmVzaGlw)
