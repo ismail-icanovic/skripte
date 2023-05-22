@@ -4,4 +4,4 @@
   - `git add .`
   - `git commit -m "rjesen konflikt"`
   - `git merge origin/main`
-  - `git push`
+  - `git puh`
