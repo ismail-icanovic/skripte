@@ -1,4 +1,4 @@
-This ``README.MD`` file will contain all important notes from the mentorship program.
+This ``Repository`` will contain all important files for work.
 
 <details>
 <summary>Week-3. Bash Shell Scripting</summary>
